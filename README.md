@@ -6,9 +6,9 @@ The survey form includes the following features:
 * A variety of input fields to collect different types of feedback, such as multiple choice questions, text fields, and dropdown menus.
 * A responsive design that adapts to different screen sizes, from desktop to mobile.
 * Validation of user input to ensure that required fields are filled out correctly, including email format, number format, and number range.
-*Clear labels and placeholder texts to guide the user through the form.
-*A submit button to submit the completed form.
-*Personalized CSS styling to give the form a unique look and feel.
+* Clear labels and placeholder texts to guide the user through the form.
+* A submit button to submit the completed form.
+* Personalized CSS styling to give the form a unique look and feel.
 
 ## ⚙️ Instalation
 To install the Netflix Survey Form project, follow these steps:
