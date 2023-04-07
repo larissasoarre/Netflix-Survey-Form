@@ -13,7 +13,7 @@ The survey form includes the following features:
 ## ⚙️ Instalation
 To install the Netflix Survey Form project, follow these steps:
 
-1. Fork the project from [this repository](https://github.com/larissasoarre/freeCodeCamp-NetflixSurveyForm).
+1. Fork the project from [this repository](https://github.com/larissasoarre/NetflixSurveyForm).
 2. Clone the forked repository to your local machine using the command 'git clone'.
 3. Open the index.html file in your web browser to view the survey.
 
